@@ -44,10 +44,12 @@
         width: 50px;
     }
 
-    .mr-50 (
-
-
-
-    )
+    .mb-50{
+        margin-bottom: 50px;
+    }
 
      /* Estilos da página contato.html */
+
+     .ml-50 {
+         margin-left: 50px;
+     }
